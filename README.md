@@ -15,7 +15,7 @@ We have responsibly disclosed all our findings to Google, which has already take
 
 ## Paper and Citation
 
-You can get the paper (here)[https://www.computer.org/csdl/proceedings-article/sp/2024/313000a105/1Ub23d965CU]. Please cite the paper as following:
+You can get the paper [here](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a105/1Ub23d965CU). Please cite the paper as following:
 
 ```
 @inproceedings{beer2024tabbed,
