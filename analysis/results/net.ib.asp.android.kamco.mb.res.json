@@ -1,0 +1,6 @@
+{
+    "package_name": "net.ib.asp.android.kamco.mb",
+    "ct_session_intent_filter": false,
+    "uses_ct": false,
+    "source": "SINGLE_APK"
+}

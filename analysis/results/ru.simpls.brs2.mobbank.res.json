@@ -1,0 +1,6 @@
+{
+    "package_name": "ru.simpls.brs2.mobbank",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}

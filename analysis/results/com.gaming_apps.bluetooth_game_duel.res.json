@@ -1,0 +1,6 @@
+{
+    "package_name": "com.gaming_apps.bluetooth_game_duel",
+    "ct_session_intent_filter": false,
+    "uses_ct": false,
+    "source": "SINGLE_APK"
+}

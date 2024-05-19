@@ -1,0 +1,6 @@
+{
+    "package_name": "net.froemling.bsremote",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}

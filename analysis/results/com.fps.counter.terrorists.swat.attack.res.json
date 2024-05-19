@@ -1,0 +1,6 @@
+{
+    "package_name": "com.fps.counter.terrorists.swat.attack",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}

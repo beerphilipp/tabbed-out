@@ -1,0 +1,6 @@
+{
+    "package_name": "ag.gunshiphelicopter.strike3D.battle",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}

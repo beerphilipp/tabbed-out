@@ -1,0 +1,6 @@
+{
+    "package_name": "in.remotify.www.vconremotecontrol",
+    "source": "SINGLE_APK_E",
+    "error": "UNSPECIFIED_ERROR",
+    "error_details": "BadZipFile('File is not a zip file')"
+}

@@ -1,0 +1,6 @@
+{
+    "package_name": "tw.mobileapp.qrcode.barcode.ultra",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}

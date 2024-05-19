@@ -1,0 +1,501 @@
+{
+    "package_name": "com.android.chrome",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": true,
+    "ct_feature_strings": {
+        "android.support.customtabs.extra.SESSION": [
+            "LIk1;",
+            "Landroidx/browser/customtabs/CustomTabsSessionToken;",
+            "Lj70;",
+            "Lgc1;",
+            "Ln70;",
+            "LsH;",
+            "Landroidx/browser/customtabs/CustomTabsSessionToken;"
+        ],
+        "android.support.customtabs.extra.SESSION_ID": [
+            "Ln70;",
+            "LsH;",
+            "Landroidx/browser/customtabs/CustomTabsSessionToken;"
+        ],
+        "android.support.customtabs.extra.user_opt_out": [
+            "LlH;",
+            "LIk1;"
+        ],
+        "androidx.browser.customtabs.extra.COLOR_SCHEME": [
+            "La60;",
+            "Lbq;",
+            "Lj70;",
+            "Lk70;"
+        ],
+        "android.support.customtabs.extra.TOOLBAR_COLOR": [
+            "LF50;",
+            "LrC1;",
+            "LD13;",
+            "Lj70;"
+        ],
+        "android.support.customtabs.extra.ENABLE_URLBAR_HIDING": [
+            "La60;",
+            "LIk1;"
+        ],
+        "android.support.customtabs.extra.CLOSE_BUTTON_ICON": [
+            "La60;",
+            "LrC1;"
+        ],
+        "android.support.customtabs.extra.TITLE_VISIBILITY": [
+            "Lj70;",
+            "Lg71;",
+            "La60;"
+        ],
+        "android.support.customtabs.extra.ACTION_BUTTON_BUNDLE": [
+            "La60;",
+            "LrC1;",
+            "Lh70;"
+        ],
+        "android.support.customtabs.extra.TOOLBAR_ITEMS": [
+            "La60;",
+            "Lh70;"
+        ],
+        "android.support.customtabs.extra.SECONDARY_TOOLBAR_COLOR": [
+            "LF50;"
+        ],
+        "android.support.customtabs.customaction.ICON": [
+            "LrC1;",
+            "LU40;",
+            "Lh70;"
+        ],
+        "android.support.customtabs.customaction.DESCRIPTION": [
+            "LU40;",
+            "LrC1;"
+        ],
+        "android.support.customtabs.customaction.PENDING_INTENT": [
+            "La60;",
+            "Lg71;",
+            "LrC1;",
+            "LU40;"
+        ],
+        "android.support.customtabs.extra.TINT_ACTION_BUTTON": [
+            "La60;",
+            "LrC1;"
+        ],
+        "android.support.customtabs.extra.MENU_ITEMS": [
+            "La60;",
+            "Lg71;",
+            "Lj70;"
+        ],
+        "android.support.customtabs.customaction.MENU_ITEM_TITLE": [
+            "La60;",
+            "Lg71;",
+            "LrC1;"
+        ],
+        "android.support.customtabs.extra.EXIT_ANIMATION_BUNDLE": [
+            "La60;",
+            "Lg71;"
+        ],
+        "androidx.browser.customtabs.extra.SHARE_STATE": [
+            "La60;",
+            "Lj70;"
+        ],
+        "android.support.customtabs.extra.SHARE_MENU_ITEM": [
+            "La60;",
+            "Lg71;",
+            "Lj70;"
+        ],
+        "android.support.customtabs.extra.EXTRA_REMOTEVIEWS": [
+            "Lv50;",
+            "La60;",
+            "Lh70;",
+            "La60;",
+            "Lh70;",
+            "La60;",
+            "Lh70;"
+        ],
+        "android.support.customtabs.extra.EXTRA_REMOTEVIEWS_VIEW_IDS": [
+            "La60;",
+            "Lh70;"
+        ],
+        "android.support.customtabs.extra.EXTRA_REMOTEVIEWS_PENDINGINTENT": [
+            "La60;",
+            "Lh70;"
+        ],
+        "android.support.customtabs.extra.EXTRA_REMOTEVIEWS_CLICKED_ID": [
+            "Lv50;"
+        ],
+        "android.support.customtabs.extra.EXTRA_ENABLE_INSTANT_APPS": [
+            "Lj70;"
+        ],
+        "androidx.browser.customtabs.extra.COLOR_SCHEME_PARAMS": [
+            "Lk70;"
+        ],
+        "androidx.browser.customtabs.extra.NAVIGATION_BAR_COLOR": [
+            "LF50;"
+        ],
+        "androidx.browser.customtabs.extra.NAVIGATION_BAR_DIVIDER_COLOR": [
+            "LF50;"
+        ],
+        "android.support.customtabs.customaction.ID": [
+            "LrC1;",
+            "LU40;",
+            "Lh70;"
+        ],
+        "android.support.customtabs.action.CustomTabsService": [],
+        "androidx.browser.customtabs.category.NavBarColorCustomization": [],
+        "androidx.browser.customtabs.category.ColorSchemeCustomization": [],
+        "androidx.browser.trusted.category.TrustedWebActivities": [],
+        "androidx.browser.trusted.category.WebShareTargetV2": [],
+        "androidx.browser.trusted.category.ImmersiveMode": [],
+        "android.support.customtabs.otherurls.URL": [
+            "Lorg/chromium/chrome/browser/customtabs/CustomTabsConnection;"
+        ],
+        "androidx.browser.customtabs.SUCCESS": [],
+        "androidx.browser.REDIRECT_ENDPOINT": [
+            "LIk1;"
+        ],
+        "android.support.customtabs.PARALLEL_REQUEST_REFERRER": [
+            "Lb70;",
+            "LIk1;",
+            "Lb70;",
+            "LIk1;"
+        ],
+        "android.support.customtabs.PARALLEL_REQUEST_REFERRER_POLICY": [
+            "Lb70;",
+            "LIk1;"
+        ],
+        "android.support.customtabs.PARALLEL_REQUEST_URL": [
+            "Lb70;"
+        ],
+        "androidx.browser.RESOURCE_PREFETCH_URL_LIST": [
+            "LIk1;"
+        ],
+        "androidx.browser.customtabs.extra.EXTRA_ACTIVITY_SIDE_SHEET_POSITION": [],
+        "androidx.browser.customtabs.extra.EXTRA_ACTIVITY_SIDE_SHEET_SLIDE_IN_BEHAVIOR": [],
+        "android.support.customtabs.extra.KEEP_ALIVE": [
+            "La60;"
+        ],
+        "org.chromium.chrome.browser.customtabs.MEDIA_VIEWER_URL": [
+            "La60;",
+            "LrC1;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXTRA_ENABLE_EMBEDDED_MEDIA_EXPERIENCE": [
+            "La60;",
+            "LrC1;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXTRA_UI_TYPE": [
+            "La60;",
+            "Lorg/chromium/chrome/browser/customtabs/CustomTabActivity;",
+            "LVu;",
+            "Lorg/chromium/chrome/browser/customtabs/CustomTabActivity;",
+            "LrC1;",
+            "Lg71;",
+            "Lj33;",
+            "Lpm2;",
+            "LdU1;",
+            "Lpm2;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXTRA_INITIAL_BACKGROUND_COLOR": [
+            "La60;",
+            "LrC1;",
+            "LD50;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXTRA_DISABLE_STAR_BUTTON": [
+            "La60;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXTRA_DISABLE_DOWNLOAD_BUTTON": [
+            "La60;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXTRA_BROWSER_LAUNCH_SOURCE": [
+            "La60;",
+            "Lf50;",
+            "Lorg/chromium/chrome/browser/media/MediaLauncherActivity;"
+        ],
+        "android.support.customtabs.extra.SEND_TO_EXTERNAL_HANDLER": [
+            "Ltp2;"
+        ],
+        "androidx.browser.customtabs.extra.TRANSLATE_LANGUAGE": [
+            "La60;"
+        ],
+        "androidx.browser.customtabs.extra.AUTO_TRANSLATE_LANGUAGE": [
+            "La60;"
+        ],
+        "org.chromium.chrome.browser.customtabs.AGA_EXPERIMENT_IDS": [
+            "La60;",
+            "Lorg/chromium/chrome/browser/customtabs/CustomTabsConnection;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXPERIMENTS_ENABLE": [
+            "La60;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXPERIMENTS_DISABLE": [
+            "La60;"
+        ],
+        "androidx.browser.customtabs.extra.INITIAL_ACTIVITY_HEIGHT_IN_PIXEL": [
+            "La60;",
+            "LIk1;"
+        ],
+        "androidx.browser.customtabs.extra.INITIAL_ACTIVITY_HEIGHT_PX": [
+            "La60;",
+            "LIk1;"
+        ],
+        "androidx.browser.customtabs.extra.INITIAL_ACTIVITY_WIDTH_PX": [],
+        "androix.browser.customtabs.extra.ENABLE_BACKGROUND_INTERACTION": [
+            "La60;"
+        ],
+        "androix.browser.customtabs.extra.EXTRA_ACTIVITY_SIDE_SHEET_ENABLE_MAXIMIZATION": [],
+        "androidx.browser.customtabs.extra.ACTIVITY_HEIGHT_RESIZE_BEHAVIOR": [
+            "La60;"
+        ],
+        "androidx.browser.customtabs.extra.ACTIVITY_SIDE_SHEET_BREAKPOINT_DP": [],
+        "androidx.browser.customtabs.extra.ACTIVITY_SIDE_SHEET_DECORATION_TYPE": [],
+        "androidx.browser.customtabs.extra.TOOLBAR_CORNER_RADIUS_IN_PIXEL": [
+            "La60;"
+        ],
+        "androidx.browser.customtabs.extra.SECONDARY_TOOLBAR_SWIPE_UP_ACTION": [],
+        "com.android.chrome.tab_id": [
+            "LJ43;",
+            "LZQ3;",
+            "Lcc1;",
+            "LAr2;"
+        ],
+        "com.android.chrome.parent_tab_id": [
+            "LDJ;",
+            "LJ43;"
+        ],
+        "com.android.chrome.parent_intent": [
+            "LDJ;",
+            "LJ43;"
+        ],
+        "org.chromium.chrome.browser.parent_componen": [
+            "LBu2;",
+            "LNW0;",
+            "Lorg/chromium/chrome/browser/app/bookmarks/BookmarkActivity;",
+            "Lzv;",
+            "LXW0;"
+        ],
+        "com.google.chrome.transition_type": [
+            "Lzv;",
+            "LNW0;",
+            "Lcc1;"
+        ],
+        "com.google.chrome.transition_bookmark_id": [
+            "Lzv;",
+            "LFv;",
+            "Lcc1;"
+        ],
+        "com.android.chrome.original_intent": [],
+        "com.android.chrome.invoked_from_fre": [],
+        "com.android.chrome.invoked_from_shortcut": [
+            "Lorg/chromium/chrome/browser/LauncherShortcutActivity;",
+            "Lkc3;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;",
+            "LgK;"
+        ],
+        "com.android.chrome.invoked_from_app_widget": [
+            "LgK;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;",
+            "Lpl2;"
+        ],
+        "org.chromium.chrome.browser.incognito.invoked_from_launch_new_incognito_tab": [
+            "Laf;",
+            "Lorg/chromium/chrome/browser/incognito/IncognitoTabLauncher;",
+            "Lorg/chromium/chrome/browser/incognito/IncognitoTabLauncher;",
+            "Lcc1;"
+        ],
+        "org.chromium.chrome.browser.activity_referrer": [
+            "LIk1;",
+            "Lf50;",
+            "LIk1;",
+            "Lorg/chromium/chrome/browser/safe_browsing/SafeBrowsingReferringAppBridge;"
+        ],
+        "org.chromium.chrome.browser.calling_activity_package": [
+            "La60;",
+            "Lg71;",
+            "La60;",
+            "LIk1;"
+        ],
+        "org.chromium.chrome.browser.referrer_id": [
+            "Lcc1;",
+            "LRw0;"
+        ],
+        "android.support.browser.extra.referrer_policy": [
+            "Lcc1;",
+            "Lj50;"
+        ],
+        "org.chromium.chrome.browser.additional_urls": [
+            "LWW0;",
+            "LUW0;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;"
+        ],
+        "org.chromium.chrome.browser.open_additional_urls_in_tab_group": [
+            "LUW0;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;"
+        ],
+        "org.chromium.chrome.browser.open_regular_overview_mode": [
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;",
+            "Ljq;"
+        ],
+        "org.chromium.chrome.browser.timestamp": [
+            "LIk1;",
+            "Lorg/chromium/chrome/browser/webapps/WebappLauncherActivity;",
+            "Lcc1;"
+        ],
+        "org.chromium.chrome.browser.window_id": [
+            "LPX1;",
+            "LIk1;",
+            "LRw0;",
+            "LcK1;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;"
+        ],
+        "org.chromium.chrome.browser.tab_launch_type": [
+            "Lzv;",
+            "Lx43;",
+            "Lhk;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;"
+        ],
+        "org.chromium.chrome.browser.data_hash": [],
+        "org.chromium.chrome.browser.incognito_mode": [
+            "Lzv;",
+            "Lorg/chromium/chrome/browser/app/bookmarks/BookmarkActivity;",
+            "Lzv;",
+            "LXW0;",
+            "Lorg/chromium/chrome/browser/history/HistoryActivity;",
+            "Lcc1;",
+            "LuH2;",
+            "LJ72;"
+        ],
+        "com.android.chrome.post_data": [
+            "Lorg/chromium/chrome/browser/searchwidget/SearchActivity;",
+            "Lcc1;",
+            "Lorg/chromium/chrome/browser/searchwidget/SearchActivity;",
+            "Lcc1;"
+        ],
+        "com.android.chrome.post_data_type": [
+            "Lorg/chromium/chrome/browser/searchwidget/SearchActivity;",
+            "Lcc1;"
+        ],
+        "com.android.chrome.from_open_in_browser": [
+            "Lkc3;",
+            "Lkc3;",
+            "Lj50;"
+        ],
+        "com.android.chrome.prefer_new": [
+            "LJJ1;",
+            "LcK1;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;"
+        ],
+        "org.chromium.chrome.browser.customtabs.EXTRA_INCOGNITO_CCT_CALLER_ID": [
+            "Lpm2;",
+            "LVu;",
+            "Lf50;"
+        ],
+        "org.chromium.chrome.browser.started_chrome_task": [
+            "Ltp2;",
+            "LIk1;"
+        ],
+        "androidx.browser.customtabs.extra.CLOSE_BUTTON_POSITION": [
+            "La60;"
+        ],
+        "com.google.android.apps.chrome.EXTRA_OPEN_NEW_INCOGNITO_TAB": [
+            "Lzv;",
+            "LdU1;",
+            "Lcc1;",
+            "LNW0;",
+            "LVu;",
+            "Lx43;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;",
+            "Lorg/chromium/chrome/browser/ChromeTabbedActivity;",
+            "Lorg/chromium/chrome/browser/document/ChromeLauncherActivity;",
+            "LAr2;",
+            "Lcc1;",
+            "Lpm2;",
+            "LRw0;",
+            "Lorg/chromium/chrome/browser/customtabs/CustomTabActivity;",
+            "Lcc1;",
+            "Lcc1;",
+            "LJ43;"
+        ],
+        "android.support.customtabs.extra.ADDITIONAL_TRUSTED_ORIGIN": [
+            "La60;"
+        ],
+        "androidx.browser.trusted.extra.SHARE_TARGET": [
+            "La60;"
+        ],
+        "androidx.browser.trusted.extra.DISPLAY_MODE": [
+            "La60;"
+        ],
+        "androidx.browser.trusted.extra.SCREEN_ORIENTATION": [
+            "La60;"
+        ],
+        "android.support.customtabs.extra.LAUNCH_AS_TRUSTED_WEB_ACTIVITY": [
+            "La60;",
+            "LIk1;",
+            "Lbq;",
+            "Lju3;",
+            "LIk1;"
+        ],
+        "android.support.customtabs.action.ACTION_MANAGE_TRUSTED_WEB_ACTIVITY_DATA": [],
+        "com.android.browser.headers": [
+            "Lcc1;",
+            "Lj70;",
+            "Lcc1;",
+            "Lcc1;",
+            "Lcc1;"
+        ],
+        "browser.initialZoomLevel": []
+    },
+    "ct_session_functions": {
+        "mayLaunchUrl": [],
+        "setActionButton": [],
+        "setSecondaryToolbarViews": [],
+        "setToolbarItem": [],
+        "requestPostMessageChannel": [],
+        "postMessage": [],
+        "validateRelationship": [],
+        "receiveFile": []
+    },
+    "ct_client_functions": {
+        "bindCustomTabsService": [],
+        "bindCustomTabsServicePreservePriority": [],
+        "getPackageName": [],
+        "connectAndInitialize": [],
+        "warmup": [],
+        "newSession": [],
+        "extraCommand": []
+    },
+    "ct_builder_functions": {
+        "setSession": [],
+        "setToolbarColor": [],
+        "enableUrlBarHiding": [],
+        "setUrlBarHidingEnabled": [],
+        "setCloseButtonIcon": [],
+        "setShowTitle": [],
+        "addMenuItem": [],
+        "addDefaultShareMenuItem": [],
+        "setDefaultShareMenuItemEnabled": [],
+        "setShareState": [],
+        "setActionButton": [],
+        "addToolbarItem": [],
+        "setSecondaryToolbarColor": [],
+        "setNavigationBarColor": [],
+        "setNavigationBarDividerColor": [],
+        "setSecondaryToolbarViews": [],
+        "setInstantAppsEnabled": [],
+        "setStartAnimations": [],
+        "setExitAnimations": [],
+        "setColorScheme": [],
+        "setColorSchemeParams": [],
+        "setDefaultColorSchemeParams": [],
+        "setInitialActivityHeightPx": [],
+        "setToolbarCornerRadiusDp": [],
+        "setCloseButtonPosition": []
+    },
+    "ct_callbacks_overwrite": [],
+    "ct_launch_url_call": [],
+    "ct_fuzzy": [
+        "Lorg/chromium/chrome/browser/customtabs/CustomTabsConnection;",
+        "Lorg/chromium/chrome/browser/customtabs/CustomTabsShareBroadcastReceiver;",
+        "Lorg/chromium/chrome/browser/customtabs/features/toolbar/CustomTabToolbar;",
+        "Lorg/chromium/chrome/browser/customtabs/CustomTabActivity;",
+        "Lorg/chromium/chrome/browser/customtabs/TranslucentCustomTabActivity;",
+        "Lorg/chromium/chrome/browser/customtabs/CustomTabsConnectionService;"
+    ],
+    "ct_callback_fuzzy": []
+}

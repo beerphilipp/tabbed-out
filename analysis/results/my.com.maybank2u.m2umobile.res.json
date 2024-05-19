@@ -1,0 +1,6 @@
+{
+    "package_name": "my.com.maybank2u.m2umobile",
+    "ct_session_intent_filter": false,
+    "uses_ct": false,
+    "source": "SINGLE_APK"
+}

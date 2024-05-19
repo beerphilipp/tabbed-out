@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bottom Bar Spoofing PoC</string>
+    <string name="decline"><u>Decline</u></string>
+    <string name="we_use_cookies_to_provide_you_with_the_best_experience_on_our_website">We use cookies to offer you the best experience on our website. Also see our <u>Privacy Policy</u>.</string>
+</resources>

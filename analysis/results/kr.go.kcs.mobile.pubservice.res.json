@@ -1,0 +1,6 @@
+{
+    "package_name": "kr.go.kcs.mobile.pubservice",
+    "ct_session_intent_filter": false,
+    "uses_ct": false,
+    "source": "SINGLE_APK"
+}

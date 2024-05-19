@@ -1,0 +1,6 @@
+{
+    "package_name": "shop.shop_apotheke.com.shopapotheke",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}

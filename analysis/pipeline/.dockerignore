@@ -1,0 +1,6 @@
+README.md
+test/*
+logs/*
+.DS_Store
+.python-version
+.env.*

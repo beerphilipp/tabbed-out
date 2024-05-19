@@ -1,0 +1,6 @@
+{
+    "package_name": "smart.universal.tv.remote.control",
+    "ct_session_intent_filter": false,
+    "uses_ct": false,
+    "source": "SINGLE_APK"
+}

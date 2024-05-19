@@ -1,0 +1,6 @@
+{
+    "package_name": "com.madboxgames.thechase",
+    "error": "UNSPECIFIED_ERROR",
+    "error_details": "BadZipFile('File is not a zip file')",
+    "source": "SINGLE_APK"
+}

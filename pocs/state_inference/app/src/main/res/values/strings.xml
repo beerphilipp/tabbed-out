@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">State Inference POC</string>
+    <string name="action_settings">Settings</string>
+    <string name="launch_custom_tab">Launch Custom Tab</string>
+    <string name="overlay_activity">Overlay activity. Wait a bit before you go back.</string>
+    <string name="url">URL</string>
+</resources>

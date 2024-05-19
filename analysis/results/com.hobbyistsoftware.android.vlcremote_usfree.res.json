@@ -1,0 +1,6 @@
+{
+    "package_name": "com.hobbyistsoftware.android.vlcremote_usfree",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}

@@ -1,0 +1,6 @@
+{
+    "package_name": "com.Cheritz.MysticMessenger",
+    "error": "UNSPECIFIED_ERROR",
+    "error_details": "TypeError('lstrip arg must be None or str')",
+    "source": "SINGLE_APK"
+}

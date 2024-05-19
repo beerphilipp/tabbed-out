@@ -1,0 +1,6 @@
+{
+    "package_name": "com.alopeyk.customer",
+    "error": "UNSPECIFIED_ERROR",
+    "error_details": "BadZipFile('File is not a zip file')",
+    "source": "SINGLE_APK"
+}

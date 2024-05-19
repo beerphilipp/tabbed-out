@@ -1,0 +1,6 @@
+{
+    "package_name": "com.astropaycard.android",
+    "source": "SINGLE_APK_E",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}

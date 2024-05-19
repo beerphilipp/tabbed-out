@@ -1,0 +1,58 @@
+version: "3.9"
+
+services:
+
+  rabbitmq:
+    image: "rabbitmq:3.11.11"
+    container_name: "rabbitmq"
+    ports:
+      - 5672:5672
+      - 15672:15672
+
+  redis:
+    image: "redis:7.0.10-alpine"
+    container_name: redis
+    ports:
+      - 6379:6379
+
+  worker:
+    build: .
+    environment: &env
+      - RABBITMQ_USER=guest
+      - RABBITMQ_HOST=rabbitmq
+      - RABBITMQ_PORT=5672
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - APK_DIR=/apks
+      - RES_DIR=/results
+      - APK_JSON_PATH=/apks.json
+    command: ['celery', '-A', 'proj', 'worker', '-l', 'INFO', '-f', '/logs/celery.logs', '--concurrency=${CONCURRENCY}']
+    volumes:
+      - ${APK_DIR}:/apks:ro
+      - ${RESULT_DIR}:/results
+      - ${APK_JSON_PATH}:/apks.json
+      - ${LOGS_PATH}:/logs
+    depends_on:
+      - rabbitmq
+      - redis
+
+  flower:
+    image: mher/flower
+    environment:
+      CELERY_BROKER_URL: pyamqp://guest@rabbitmq:5672
+      CELERY_BACKEND_URL: redis://redis:6379
+    ports:
+      - 5555:5555
+    depends_on:
+      - rabbitmq
+      - redis
+
+  analyser:
+    build: .
+    environment: *env
+    command: ['python', 'analyser.py']
+    volumes:
+      - ${APK_JSON_PATH}:/apks.json
+    restart: 'no'
+    profiles:
+      - init

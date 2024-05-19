@@ -1,0 +1,6 @@
+{
+    "package_name": "com.tos.namajtime",
+    "source": "MULTIPLE_APKS",
+    "error": "UNSPECIFIED_ERROR",
+    "error_details": "TypeError(\"unsupported operand type(s) for +: 'NoneType' and 'str'\")"
+}

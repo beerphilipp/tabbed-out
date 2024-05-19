@@ -1,0 +1,6 @@
+{
+    "package_name": "nu.nav.bar",
+    "error": "UNSPECIFIED_ERROR",
+    "error_details": "TypeError(\"unsupported operand type(s) for +: 'NoneType' and 'str'\")",
+    "source": "SINGLE_APK"
+}

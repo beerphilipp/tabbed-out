@@ -1,0 +1,6 @@
+{
+    "package_name": "com.cazaayan.bse.mobile",
+    "error": "UNSPECIFIED_ERROR",
+    "error_details": "ValueError('Not a DEX file, Header too small.')",
+    "source": "SINGLE_APK"
+}

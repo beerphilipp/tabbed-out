@@ -1,0 +1,6 @@
+{
+    "package_name": "org.microemu.android.model.common.VTUserApplicationLINKMB",
+    "ct_session_intent_filter": false,
+    "uses_ct": false,
+    "source": "SINGLE_APK"
+}

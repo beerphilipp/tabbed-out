@@ -1,0 +1,6 @@
+{
+    "package_name": "com.eg.android.AlipayGphone",
+    "error": "UNSPECIFIED_ERROR",
+    "error_details": "error('unpack requires a buffer of 1 bytes')",
+    "source": "SINGLE_APK"
+}

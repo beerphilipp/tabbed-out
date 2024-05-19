@@ -1,0 +1,6 @@
+{
+    "package_name": "com.blockot.sniper_commando_warrior_ghost",
+    "source": "MULTIPLE_APKS",
+    "ct_session_intent_filter": false,
+    "uses_ct": false
+}
